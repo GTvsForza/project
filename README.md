@@ -1,4 +1,4 @@
-# hello-world
-Tutorial Repo
-
-This is my starting repo.
+# AR/VR Progress
+- Planning out Design of the World
+- Planning on Interactions of the World
+- Other
